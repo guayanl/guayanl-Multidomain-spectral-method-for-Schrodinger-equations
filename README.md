@@ -1,4 +1,5 @@
 # guayanl-Multidomain-spectral-method-for-Schrodinger-equations
-论文复现: Multidomain-spectral-method-for-Schrodinger-equations  
-论文作者: Mira Birem & Christian Klein  
-DOI 10.1007/s10444-015-9429-9
+This repository contains the code for the paper:  
+[Multidomain-spectral-method-for-Schrodinger-equations](https://arxiv.org/abs/1410.3718)  
+DOI 10.1007/s10444-015-9429-9  
+Note: TBC Method for NLS has not been implemented.
