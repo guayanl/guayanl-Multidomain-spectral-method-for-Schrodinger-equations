@@ -1,6 +1,5 @@
-%% Fig1 in the paper
 %% Initialization
-a = -5 ;b = 5 ;N1 = 100 ;N2 = 120 ;N3 = 5000;t = 0.5;
+a = -25 ;b = 25 ;N1 = 20 ;N2 = 700 ;N3 = 500;t = 1;
 % Interpolation Nodes
 L1 = cos((0:N1)/(N1)*pi)' ;L2 = cos((0:N2)/(N2)*pi)' ;L3 = cos((0:N3)/(N3)*pi)';
 X1 = 2*a./(1-L1) ;X2 = a*(1+L2)/2+b*(1-L2)/2 ;X3 = 2*b./(1+L3);
